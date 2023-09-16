@@ -18,6 +18,8 @@ Hieronder mijn visitekaartje:
 
 Het coderen was nogal lastig omdat ik de visitekaartje die ons gegeven werd aan het aanpassen was in plaats van dat ik helemaal opnieuw begon. Hierdoor gebeurde er vaak dingen die ik niet bedoelde waardoor ik constant alles moest veranderen. Het nam dus ook veel meer tijd om een visitekaartje af te ronden waardoor ik niet helemaal mijn perfecte visitekaartje heb kunnen maken. Ik had liever wat meer witruimte gehad en ik wou 2 extra buttons op mijn website hebben. Bij de "more about me" had ik graag gewild dat de website naar beneden zou gaan en bij "contact me" wou ik dat je daarop kon klikken, maar omdat ik het op deze manier deed, werd het veels te lastig en had ik er geen tijd voor. Het was daarnaast ook moeilijker voor anderen om mij te helpen omdat ik de code van iemand anders aan het aanpassen was. Dus voor de volgende keer zal ik ervoor zorgen om te coderen vanuit het begin in plaats van iemand anders zijn code aan te passen.
 
+Bij de integratiefase heb ik ervoor gezorgd dat alles gecommit wordt naar de main en daarna online gepubliceerd werd. Doordat ik elke dag mijn code aan het pushen was naar mijn main branch heb ik veel geleerd over hoe Github werkt. Daarnaast had ik ook veel hulp gevraagd van een 2de jaars klasgenoot die mij uitlegde hoe ik Github moest gebruiken.
+
 Ten slotte heb ik de testfase kort gedaan met een vriend van me uit het buitenland. Ik had hem de link gestuurd van mijn visitekaartje om te zien of mijn website wel werkte. Hierbij kwam ik achter dat het wel werkte, maar dat het er niet goed uitzag bij een telefoon. Deze probleem heb ik niet kunnen fixen met mijn beperkte begrijp van coderen.
 
 
