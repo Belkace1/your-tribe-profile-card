@@ -1,9 +1,12 @@
 Welkom bij mijn visitekaartje! Hierbij ga ik de stappen die ik heb gevolgd laten zien en uitleggen.
 
 Ik ben begonnen met het lezen van de hele opdracht. Hierdoor kon ik begrijpen waar ik moest beginnen en hoe ik deze opdracht moest eindigen.
-![analyse fase ](https://github.com/Belkace1/your-tribe-profile-card/assets/59538876/3777d4e1-ed7b-4d1a-81ea-5b9471d644c3)
+![analyse fase ](https://github.com/Belkace1/your-tribe-profile-card/assets/59538876/5f0e29a3-69ff-403d-b855-687d45057d05)
+
 
 Daarna begon ik met het maken van 8 schetsen.
+![IMG_20230917_004126849](https://github.com/Belkace1/your-tribe-profile-card/assets/59538876/b2fb5e9d-eeb7-4dc4-a846-539cf36ae3ce)
+
 De bedoeling was om 8 keer een verschillende visitekaartje van mezelf te schetsen en om daarna voor feedback te vragen. Het was vooral moeilijk om te visualiseren wat ik wou doen met mijn website en wat precies zou passen bij de visuele hierachie. Het toepassen van de theorie op de sketch was dus best wel uitdagend. Het duurde mij daardoor ook langer om klaar te zijn met mijn sketches. Uit de feedback bleek vooral dat ik niet de visuele hierachie goed had toegepast, ik had namelijk de aandacht te veel verdeeld en weinig witruimte of kleur. Jammer genoeg had ik wel de fout gemaakt om te beginnen met coderen zonder zeker te weten welke schets ik wou volgen. Hierdoor duurde het langer om te coderen na mijn gevoel. Na meerdere keren proberen heb ik uiteindelijk een schets gemaakt die ik definitief probeerde te volgen.  Hierbij de schets die ik heb gevolgd: 
 ![image](https://github.com/Belkace1/your-tribe-profile-card/assets/59538876/5d995220-9443-4d27-a5e1-ad6fe45570f6)
 
