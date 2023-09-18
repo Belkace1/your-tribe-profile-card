@@ -13,6 +13,7 @@ body {
   height: 100vh;
   font-family: open sans;
   color: #10214e;
+  
 }
 
 article {
@@ -29,11 +30,11 @@ article {
   background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
+  
 }
 
 header {
-  text-align: left;
-  margin-left: -10px
+  
   
   
 }
@@ -41,7 +42,12 @@ header {
 h1 {
   
   color: rgb(9, 255, 0);
+  margin-left: -60px
 
+}
+h2 { margin-top: 1px;
+  margin-left: -140px;
+  
 }
 
 img {
