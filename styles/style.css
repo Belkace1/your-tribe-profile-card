@@ -16,11 +16,10 @@ body {
   
 }
 
-article {
+.profileCard {
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: flex-end;
   width: 50vw;
   max-width: 25em;
@@ -33,27 +32,24 @@ article {
   
 }
 
-header {
-  
-  
-  
+.Bovenkant{
+  align-items: center;
 }
 
 h1 {
-  
   color: rgb(9, 255, 0);
-  margin-left: -60px
+  margin-left: 30px;
 
 }
 h2 { margin-top: 1px;
-  margin-left: -140px;
+  margin-left: 30px;
   
 }
 
 img {
   position: relative;
-  top: -2rem;
-  right: -7rem;
+  top: -1rem;
+  left: 14rem;
   width: 10em;
   height: auto;
   border: 2px solid #fff;
@@ -62,18 +58,17 @@ img {
   transition: .25s .15s;
 }
 
-
-
-p { 
-  margin: 0;
-}
-
-article > p {
+.beschrijfing {
   width: 100%;
   margin-top: 0;
   padding: 3rem 2rem;
   border-radius: 0 0 1rem 1rem;
   background: rgba(255,255,255, 0.5);
+}
+
+.More { 
+  text-align: center;
+  margin-top: 0;
 }
 
 
